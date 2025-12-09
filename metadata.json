@@ -1,0 +1,7 @@
+{
+  "name": "SmartFridge 智能冰箱管家",
+  "description": "一个简洁的冰箱库存管理应用，专注于食材记录与保质期追踪。",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
